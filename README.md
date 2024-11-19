@@ -13,7 +13,7 @@ In this code, we change these three elements one at a time.
 
 ## Repository Structure
 ### Main script
-The main file is [Macaque_genes_vs_receptors_4GitHub.m](Macaque_genes_vs_receptors_4GitHub.m)
+The main file is [Luppi_macaque_brain_gene_translation_code_4GitHub.m](Luppi_macaque_brain_gene_translation_code_4GitHub.m)
 This script should work out of the box, if run from the parent directory. 
 To run, ensure you are in the main directory of the repo.
 
