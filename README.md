@@ -5,11 +5,10 @@ This repository provides code to reproduce the main results of Luppi et al., "Be
 
 It was developed in MATLAB 2019a by Andrea Luppi from the the [Network Neuroscience Lab](netneurolab.github.io/) at the Montreal Neurological Institute, McGill University.
 
-This code relies on MATLAB code from the [BrainSpace Toolbox](https://brainspace.readthedocs.io/en/latest/) for MATLAB by Vos de Wael et al. (2020) _Communications Biology_.
+This code relies on MATLAB code from the [BrainSpace Toolbox](https://brainspace.readthedocs.io/en/latest/) for MATLAB by Vos de Wael et al. (2020) _Communications Biology_. The essential functions are included in this repo to ensure standalone functionality.
 For additional plotting functionality, also include in your MATLAB path the [ENIGMA Toolbox](https://github.com/MICA-MNI/ENIGMA.git) by Lariviere et al. (2021) _Nature Methods_.
 
-The study investigates how network control energy in the brain depends on the network, but also the start and destination states, and the control strategy.
-In this code, we change these three elements one at a time.
+The study investigates the spatial correspondence of cortical patterns of gene expression in the macaque, against (i) protein density in the macaque cortex (vertical translation); and (ii) gene expression in the human cortex (horizontal translation).
 
 ## Repository Structure
 ### Main script
@@ -18,7 +17,7 @@ This script should work out of the box, if run from the parent directory.
 To run, ensure you are in the main directory of the repo.
 
 ### `data`
-The [data](data/) folder contains all the data you need to make this code run. 
+The [Materials](Materials/) folder contains all the data you need to make this code run. 
 
 ### `utils`
-The [utils](utils/) folder contains support functions.
+The [utils](utils/) folder contains support functions called by the main script, including some third-party code.
