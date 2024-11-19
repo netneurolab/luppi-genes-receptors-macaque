@@ -16,7 +16,7 @@ The main file is [Luppi_macaque_brain_gene_translation_code_4GitHub.m](Luppi_mac
 This script should work out of the box, if run from the parent directory. 
 To run, ensure you are in the main directory of the repo.
 
-### `data`
+### `Materials`
 The [Materials](Materials/) folder contains all the data you need to make this code run. 
 
 ### `utils`
