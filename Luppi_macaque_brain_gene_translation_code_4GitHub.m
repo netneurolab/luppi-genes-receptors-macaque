@@ -995,7 +995,7 @@ end %end loop over ROIs
 % in structurally connected regions, weighted by the structural connection
 
 %Load macaque connectome
-load('/rds/project/rds-pXaBn8E6hyM/users/al857/Analyses/genes_receptors_macaque/Materials/macaqueTVB_82_asym.mat')
+load([materials_dir, '/macaqueTVB_82_asym.mat'])
 
 %transpose to be in row2col format
 connectome = connectome';
