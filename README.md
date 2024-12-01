@@ -1,5 +1,5 @@
 #  Benchmarking macaque brain gene expression for horizontal and vertical translation.
-Authors: A.I. Luppi, Z-Q. Liu,  J.Y. Hansen,  R. Cofre,  E. Kuzmin,  S. Froudist-Walsh, N. Palomero-Gallagher,  & B. Misic.
+Authors: A.I. Luppi, Z-Q. Liu,  J.Y. Hansen,  R. Cofre,  M. Niu, E. Kuzmin,  S. Froudist-Walsh, N. Palomero-Gallagher, & B. Misic.
 
 This repository provides code to reproduce the main results of Luppi et al., "Benchmarking macaque brain gene expression for horizontal and vertical translation." _bioRxiv_ (2024) ([preprint](https://doi.org/10.1101/2024.08.18.608440)).
 
@@ -16,8 +16,8 @@ The main file is [Luppi_macaque_brain_gene_translation_code_4GitHub.m](Luppi_mac
 This script should work out of the box, if run from the parent directory. 
 To run, ensure you are in the main directory of the repo.
 
-### `Materials`
-The [Materials](Materials/) folder contains all the data you need to make this code run. 
+### `data`
+The [data](data/) folder contains all the data you need to make this code run. 
 
 ### `utils`
 The [utils](utils/) folder contains support functions called by the main script, including some third-party code.
