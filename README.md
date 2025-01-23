@@ -1,7 +1,7 @@
 #  Benchmarking macaque brain gene expression for horizontal and vertical translation.
 Authors: A.I. Luppi, Z-Q. Liu,  J.Y. Hansen,  R. Cofre,  M. Niu, E. Kuzmin,  S. Froudist-Walsh, N. Palomero-Gallagher, & B. Misic.
 
-This repository provides code to reproduce the main results of Luppi et al., "Benchmarking macaque brain gene expression for horizontal and vertical translation." _bioRxiv_ (2024) ([preprint](https://doi.org/10.1101/2024.08.18.608440)).
+This repository provides code to reproduce the main results of Luppi et al., "Benchmarking macaque brain gene expression for horizontal and vertical translation." _Science Advances_ (2025, accepted) ([preprint:](https://doi.org/10.1101/2024.08.18.608440)).
 
 It was developed in MATLAB 2019a by Andrea Luppi from the the [Network Neuroscience Lab](netneurolab.github.io/) at the Montreal Neurological Institute, McGill University.
 
